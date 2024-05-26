@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Farid, a student at Universitas Muhammadiyah Prof. Dr. HAMKA in Jakarta, Indonesia. I'm passionate about building web applications and backend systems, usually with Laravel.
+Hi! I'm Farid, a student at Universitas Muhammadiyah Prof. Dr. HAMKA in Jakarta, Indonesia. I'm passionate about building web applications and backend systems, usually with Laravel. I am currently studying at the Bangkit Academy 2024 Batch 1 program with the Cloud Computing learning path and learning a lot about Google Cloud Platform and building cloud infrastructure
 
 
 # Tech Stack:
